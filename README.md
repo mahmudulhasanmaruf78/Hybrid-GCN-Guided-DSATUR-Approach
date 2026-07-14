@@ -70,14 +70,6 @@ The project evaluates the approach on:
 - Welsh, D. J., & Powell, M. B. (1967). "An upper bound for the chromatic number of a graph and its application to timetabling problems"
 - Kipf, T., & Welling, M. (2016). "Semi-supervised classification with graph convolutional networks"
 
-## Author
-
-AIUB - Semester 11 - Basic Graph Theory Course
-
-## License
-
-Academic use - AIUB
-
 ---
 
 **Note:** This README will be updated as the project progresses.
